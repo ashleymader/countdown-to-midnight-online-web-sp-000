@@ -10,7 +10,7 @@ def countdown(number)
 end
 
 def countdown_with_sleep(sleep)
-  sleep(1.seconds)
+  sleep(5.seconds)
 end
 
 class Integer
